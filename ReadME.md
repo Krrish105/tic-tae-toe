@@ -20,7 +20,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Play a game of Tic Tac Toe with the computer
+- Play a game of Tic Tac Toe with another person using the computer
 - Play the reset game again
 - Choose whether they want to play as X or O
 
